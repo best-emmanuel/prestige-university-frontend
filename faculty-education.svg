@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 850">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#081d30"/><stop offset=".58" stop-color="#123f63"/><stop offset="1" stop-color="#c9a54a"/></linearGradient></defs>
+<rect width="1400" height="850" fill="url(#bg)"/>
+<circle cx="1120" cy="150" r="230" fill="#fff" opacity=".08"/><circle cx="230" cy="760" r="320" fill="#fff" opacity=".05"/>
+<path d="M0 620 Q350 460 700 620 T1400 590 V850 H0Z" fill="#061622" opacity=".35"/>
+<rect x="260" y="315" width="880" height="285" rx="18" fill="#fff" opacity=".10"/>
+<path d="M210 315 L700 165 L1190 315 Z" fill="#fff" opacity=".13"/>
+<g fill="#fff" opacity=".28"><rect x="315" y="365" width="90" height="175"/><rect x="470" y="365" width="90" height="175"/><rect x="625" y="365" width="90" height="175"/><rect x="780" y="365" width="90" height="175"/><rect x="935" y="365" width="90" height="175"/></g>
+<text x="700" y="690" fill="#fff" font-family="Georgia,serif" font-size="52" font-weight="700" text-anchor="middle">Education</text>
+<text x="700" y="735" fill="#fff" opacity=".78" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">Prestige University</text></svg>
